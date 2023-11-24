@@ -1,0 +1,15 @@
+D:\PersonalProjects\HeadFirstDesignPatterns\ObserverPattern\bin\Debug\net7.0\ObserverPattern.exe
+D:\PersonalProjects\HeadFirstDesignPatterns\ObserverPattern\bin\Debug\net7.0\ObserverPattern.deps.json
+D:\PersonalProjects\HeadFirstDesignPatterns\ObserverPattern\bin\Debug\net7.0\ObserverPattern.runtimeconfig.json
+D:\PersonalProjects\HeadFirstDesignPatterns\ObserverPattern\bin\Debug\net7.0\ObserverPattern.dll
+D:\PersonalProjects\HeadFirstDesignPatterns\ObserverPattern\bin\Debug\net7.0\ObserverPattern.pdb
+D:\PersonalProjects\HeadFirstDesignPatterns\ObserverPattern\obj\Debug\net7.0\ObserverPattern.csproj.AssemblyReference.cache
+D:\PersonalProjects\HeadFirstDesignPatterns\ObserverPattern\obj\Debug\net7.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalProjects\HeadFirstDesignPatterns\ObserverPattern\obj\Debug\net7.0\ObserverPattern.AssemblyInfoInputs.cache
+D:\PersonalProjects\HeadFirstDesignPatterns\ObserverPattern\obj\Debug\net7.0\ObserverPattern.AssemblyInfo.cs
+D:\PersonalProjects\HeadFirstDesignPatterns\ObserverPattern\obj\Debug\net7.0\ObserverPattern.csproj.CoreCompileInputs.cache
+D:\PersonalProjects\HeadFirstDesignPatterns\ObserverPattern\obj\Debug\net7.0\ObserverPattern.dll
+D:\PersonalProjects\HeadFirstDesignPatterns\ObserverPattern\obj\Debug\net7.0\refint\ObserverPattern.dll
+D:\PersonalProjects\HeadFirstDesignPatterns\ObserverPattern\obj\Debug\net7.0\ObserverPattern.pdb
+D:\PersonalProjects\HeadFirstDesignPatterns\ObserverPattern\obj\Debug\net7.0\ObserverPattern.genruntimeconfig.cache
+D:\PersonalProjects\HeadFirstDesignPatterns\ObserverPattern\obj\Debug\net7.0\ref\ObserverPattern.dll
