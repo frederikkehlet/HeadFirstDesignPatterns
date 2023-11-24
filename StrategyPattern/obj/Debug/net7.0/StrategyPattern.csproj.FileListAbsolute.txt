@@ -1,0 +1,15 @@
+D:\PersonalProjects\HeadFirstDesignPatterns\StrategyPattern\bin\Debug\net7.0\StrategyPattern.exe
+D:\PersonalProjects\HeadFirstDesignPatterns\StrategyPattern\bin\Debug\net7.0\StrategyPattern.deps.json
+D:\PersonalProjects\HeadFirstDesignPatterns\StrategyPattern\bin\Debug\net7.0\StrategyPattern.runtimeconfig.json
+D:\PersonalProjects\HeadFirstDesignPatterns\StrategyPattern\bin\Debug\net7.0\StrategyPattern.dll
+D:\PersonalProjects\HeadFirstDesignPatterns\StrategyPattern\bin\Debug\net7.0\StrategyPattern.pdb
+D:\PersonalProjects\HeadFirstDesignPatterns\StrategyPattern\obj\Debug\net7.0\StrategyPattern.csproj.AssemblyReference.cache
+D:\PersonalProjects\HeadFirstDesignPatterns\StrategyPattern\obj\Debug\net7.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalProjects\HeadFirstDesignPatterns\StrategyPattern\obj\Debug\net7.0\StrategyPattern.AssemblyInfoInputs.cache
+D:\PersonalProjects\HeadFirstDesignPatterns\StrategyPattern\obj\Debug\net7.0\StrategyPattern.AssemblyInfo.cs
+D:\PersonalProjects\HeadFirstDesignPatterns\StrategyPattern\obj\Debug\net7.0\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\PersonalProjects\HeadFirstDesignPatterns\StrategyPattern\obj\Debug\net7.0\StrategyPattern.dll
+D:\PersonalProjects\HeadFirstDesignPatterns\StrategyPattern\obj\Debug\net7.0\refint\StrategyPattern.dll
+D:\PersonalProjects\HeadFirstDesignPatterns\StrategyPattern\obj\Debug\net7.0\StrategyPattern.pdb
+D:\PersonalProjects\HeadFirstDesignPatterns\StrategyPattern\obj\Debug\net7.0\StrategyPattern.genruntimeconfig.cache
+D:\PersonalProjects\HeadFirstDesignPatterns\StrategyPattern\obj\Debug\net7.0\ref\StrategyPattern.dll
