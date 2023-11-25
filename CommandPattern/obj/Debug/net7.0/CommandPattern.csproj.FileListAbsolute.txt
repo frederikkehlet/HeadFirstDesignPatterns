@@ -1,0 +1,15 @@
+D:\PersonalProjects\HeadFirstDesignPatterns\CommandPattern\bin\Debug\net7.0\CommandPattern.exe
+D:\PersonalProjects\HeadFirstDesignPatterns\CommandPattern\bin\Debug\net7.0\CommandPattern.deps.json
+D:\PersonalProjects\HeadFirstDesignPatterns\CommandPattern\bin\Debug\net7.0\CommandPattern.runtimeconfig.json
+D:\PersonalProjects\HeadFirstDesignPatterns\CommandPattern\bin\Debug\net7.0\CommandPattern.dll
+D:\PersonalProjects\HeadFirstDesignPatterns\CommandPattern\bin\Debug\net7.0\CommandPattern.pdb
+D:\PersonalProjects\HeadFirstDesignPatterns\CommandPattern\obj\Debug\net7.0\CommandPattern.csproj.AssemblyReference.cache
+D:\PersonalProjects\HeadFirstDesignPatterns\CommandPattern\obj\Debug\net7.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalProjects\HeadFirstDesignPatterns\CommandPattern\obj\Debug\net7.0\CommandPattern.AssemblyInfoInputs.cache
+D:\PersonalProjects\HeadFirstDesignPatterns\CommandPattern\obj\Debug\net7.0\CommandPattern.AssemblyInfo.cs
+D:\PersonalProjects\HeadFirstDesignPatterns\CommandPattern\obj\Debug\net7.0\CommandPattern.csproj.CoreCompileInputs.cache
+D:\PersonalProjects\HeadFirstDesignPatterns\CommandPattern\obj\Debug\net7.0\CommandPattern.dll
+D:\PersonalProjects\HeadFirstDesignPatterns\CommandPattern\obj\Debug\net7.0\refint\CommandPattern.dll
+D:\PersonalProjects\HeadFirstDesignPatterns\CommandPattern\obj\Debug\net7.0\CommandPattern.pdb
+D:\PersonalProjects\HeadFirstDesignPatterns\CommandPattern\obj\Debug\net7.0\CommandPattern.genruntimeconfig.cache
+D:\PersonalProjects\HeadFirstDesignPatterns\CommandPattern\obj\Debug\net7.0\ref\CommandPattern.dll
